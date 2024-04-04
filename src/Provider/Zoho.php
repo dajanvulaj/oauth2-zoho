@@ -25,6 +25,7 @@ class Zoho extends AbstractProvider
         'EU' => 'https://accounts.zoho.eu',
         'IN' => 'https://accounts.zoho.in',
         'CN' => 'https://accounts.zoho.com.cn',
+        'SA' => 'https://accounts.zoho.sa',
     ];
 
     /**
